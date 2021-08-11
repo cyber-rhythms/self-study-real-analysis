@@ -1,6 +1,6 @@
 # Self-study: Real analysis.
 
-This repo accompanies the blog post at:
+This repo contains a selection of materials I collated for self-study I am undertaking in undergraduate level real analysis. It accompanies the corresponding blog post at:
 
 > Insert link.
 
