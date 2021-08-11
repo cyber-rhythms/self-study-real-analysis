@@ -1,4 +1,4 @@
-# self-study-real-analysis
+# Self-study: Real analysis.
 
 This repo accompanies the blog post at:
 
